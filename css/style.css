@@ -511,12 +511,12 @@ ul {
 .serveses__date-future {
     padding: 90px 20px;
     width: 25%;
-    background-color: #177500;
+    background-color: #97C08D;
     color: #fff;
 }
 
 .serveses__date-future:nth-child(2n) {
-    background-color: #00EE34;
+    background-color: #617A5B;
 }
 
 .servises__match-name {
